@@ -10,8 +10,8 @@ def solution(triangle):
                 current = triangle[i - 1][j - 1] + triangle[i][j]
                 triangle[i][j] = max(triangle[i-1][j - 1], current)
             else:
-                a = triangle[i-1][j] + triangle[i][j]
-                b = triangle[i - 1][j - 1] + triangle[i][j]
+                a = triangle[i-1][j-1] + triangle[i][j]
+                b = triangle[i-1][j] + triangle[i][j]
                 triangle[i][j] = max(a, b)
             
     answer = max(triangle[-1])
