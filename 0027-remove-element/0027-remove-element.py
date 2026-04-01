@@ -1,20 +1,18 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         
-        index = 0
+        start = 0
+        end = 0
 
-        while index < len(nums):
+        while end < len(nums):
 
-            if nums[index] == val:
-                nums.pop(index)
+            if nums[end] == val:
                 
-                if index >= 1:
-                    index -= 1
-                else:
-                    index = 0
-                
+                end += 1
+            
             else:
-                index += 1
+                nums[start] = nums[end]
+                start += 1
+                end += 1
 
-
-        return len(nums)
+        return start
