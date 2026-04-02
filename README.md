@@ -19,4 +19,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jungyu333/algorithm/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
