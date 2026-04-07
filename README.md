@@ -16,6 +16,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jungyu333/algorithm/tree/master/0027-remove-element) |
+| [0228-summary-ranges](https://github.com/jungyu333/algorithm/tree/master/0228-summary-ranges) |
 ## Two Pointers
 |  |
 | ------- |
