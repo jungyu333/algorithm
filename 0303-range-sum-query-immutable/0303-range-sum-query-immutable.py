@@ -1,28 +1,16 @@
+from itertools import accumulate
+
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self._prefix = self.calc_prefix(nums)
+        self._prefix = [0] + list(accumulate(nums))
 
-    def calc_prefix(self, nums: List[int]):
-
-        prefix_sums = []
-
-        for num in nums:
-
-            if not prefix_sums:
-                prefix_sums.append(num)
-            else:
-                prefix_sums.append(prefix_sums[-1] + num)
-        return prefix_sums
 
     def sumRange(self, left: int, right: int) -> int:
         
         result = 0
 
-        if left == 0:
-            result = self._prefix[right]
-        else:
-            result = self._prefix[right] - self._prefix[left - 1]
+        result = self._prefix[right + 1] - self._prefix[left]
         
         return result
 
