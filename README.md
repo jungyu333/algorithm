@@ -12,6 +12,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0183-customers-who-never-order](https://github.com/jungyu333/algorithm/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/jungyu333/algorithm/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/jungyu333/algorithm/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/jungyu333/algorithm/tree/master/0511-game-play-analysis-i) |
 ## Array
 |  |
 | ------- |
