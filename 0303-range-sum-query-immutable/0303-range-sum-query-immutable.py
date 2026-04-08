@@ -1,14 +1,28 @@
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self._nums = nums
+        self._prefix = self.calc_prefix(nums)
+
+    def calc_prefix(self, nums: List[int]):
+
+        prefix_sums = []
+
+        for num in nums:
+
+            if not prefix_sums:
+                prefix_sums.append(num)
+            else:
+                prefix_sums.append(prefix_sums[-1] + num)
+        return prefix_sums
 
     def sumRange(self, left: int, right: int) -> int:
         
         result = 0
 
-        for i in range(left, right + 1):
-            result += self._nums[i]
+        if left == 0:
+            result = self._prefix[right]
+        else:
+            result = self._prefix[right] - self._prefix[left - 1]
         
         return result
 
