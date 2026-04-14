@@ -14,6 +14,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0197-rising-temperature](https://github.com/jungyu333/algorithm/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/jungyu333/algorithm/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/jungyu333/algorithm/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/jungyu333/algorithm/tree/master/0584-find-customer-referee) |
 ## Array
 |  |
 | ------- |
