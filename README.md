@@ -23,6 +23,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
 | [1470-shuffle-the-array](https://github.com/jungyu333/algorithm/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/jungyu333/algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jungyu333/algorithm/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/jungyu333/algorithm/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
@@ -68,6 +69,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/jungyu333/algorithm/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
