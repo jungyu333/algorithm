@@ -16,6 +16,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0577-employee-bonus](https://github.com/jungyu333/algorithm/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/jungyu333/algorithm/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jungyu333/algorithm/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/jungyu333/algorithm/tree/master/0595-big-countries) |
 ## Array
 |  |
 | ------- |
