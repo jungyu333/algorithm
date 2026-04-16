@@ -3,16 +3,10 @@ class Solution:
         
         result = []
 
-        for i in range(len(nums)):
-            count = 0
-            for j in range(len(nums)):
+        sorted_nums = sorted(nums)
 
-                if i == j:
-                    continue
-                else:
-                    if nums[j] < nums[i]:
-                        count += 1
-            
+        for num in nums:
+            count = sorted_nums.index(num)
             result.append(count)
-        
+
         return result
