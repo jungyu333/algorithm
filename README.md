@@ -26,6 +26,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0228-summary-ranges](https://github.com/jungyu333/algorithm/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jungyu333/algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/jungyu333/algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jungyu333/algorithm/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jungyu333/algorithm/tree/master/0205-isomorphic-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/jungyu333/algorithm/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -94,4 +96,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jungyu333/algorithm/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
