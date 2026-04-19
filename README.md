@@ -27,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0228-summary-ranges](https://github.com/jungyu333/algorithm/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
+| [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jungyu333/algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jungyu333/algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
