@@ -22,6 +22,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jungyu333/algorithm/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jungyu333/algorithm/tree/master/0027-remove-element) |
 | [0228-summary-ranges](https://github.com/jungyu333/algorithm/tree/master/0228-summary-ranges) |
@@ -46,6 +47,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jungyu333/algorithm/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jungyu333/algorithm/tree/master/0205-isomorphic-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
