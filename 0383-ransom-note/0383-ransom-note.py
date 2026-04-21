@@ -8,10 +8,7 @@ class Solution:
         for char in ransomNote:
 
             if not hash.get(char):
-                return False
-
-            if hash.get(char) == 0:
-                return False            
+                return False         
 
             hash[char] -= 1
         
