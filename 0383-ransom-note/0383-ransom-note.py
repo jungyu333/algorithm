@@ -3,13 +3,9 @@ from collections import Counter
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         
-        hash = Counter(magazine)
+        hash_m = Counter(magazine)
+        hash_r = Counter(ransomNote)
         
-        for char in ransomNote:
+        hash = hash_r - hash_m
 
-            if not hash.get(char):
-                return False         
-
-            hash[char] -= 1
-        
-        return True
+        return not hash
