@@ -1,21 +1,14 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         
-        s_to_t = {}
-        t_to_s = {}
+        idx_s = []
+        idx_t = []
 
-        for char_s, char_t in zip(s, t):
+        for s_char in s:
+            idx_s.append(s.index(s_char))
 
-            if char_s in s_to_t:
-                if s_to_t.get(char_s) != char_t:
-                    return False
-            else:
-                s_to_t[char_s] = char_t
+            
+        for t_char in t:
+            idx_t.append(t.index(t_char))
 
-            if char_t in t_to_s:
-                if t_to_s.get(char_t) != char_s:
-                    return False
-            else:
-                t_to_s[char_t] = char_s
-        
-        return True
+        return idx_s == idx_t
