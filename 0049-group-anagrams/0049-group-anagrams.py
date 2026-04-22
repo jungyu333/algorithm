@@ -1,18 +1,14 @@
-from collections import Counter
+from collections import defaultdict
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
-        hash = {}
+        hash = defaultdict(list)
 
         for str in strs:
-
             key = ''.join(sorted(str))
-            
-            if hash.get(key) is not None:
-                current = hash.get(key)
-                current.append(str)
-            else:
-                hash[key] = [str]
+        
+            hash[key].append(str)
+
 
         return [ v for v in hash.values()]
