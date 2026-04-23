@@ -31,6 +31,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0049-group-anagrams](https://github.com/jungyu333/algorithm/tree/master/0049-group-anagrams) |
 | [0228-summary-ranges](https://github.com/jungyu333/algorithm/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -48,6 +49,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jungyu333/algorithm/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +59,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0205-isomorphic-strings](https://github.com/jungyu333/algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jungyu333/algorithm/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jungyu333/algorithm/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/jungyu333/algorithm/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/jungyu333/algorithm/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +81,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +124,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0049-group-anagrams](https://github.com/jungyu333/algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jungyu333/algorithm/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
