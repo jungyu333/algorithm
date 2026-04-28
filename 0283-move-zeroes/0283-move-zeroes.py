@@ -11,9 +11,8 @@ class Solution:
             if nums[fast] != 0:
                 nums[slow] = nums[fast]
                 slow += 1
-                fast += 1
-            else:
-                fast += 1
+            
+            fast += 1
 
         for i in range(slow, len(nums)):
             nums[i] = 0
