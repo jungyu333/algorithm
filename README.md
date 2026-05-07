@@ -27,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1068-product-sales-analysis-i](https://github.com/jungyu333/algorithm/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/jungyu333/algorithm/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/jungyu333/algorithm/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/jungyu333/algorithm/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Array
 |  |
 | ------- |
