@@ -1,24 +1,15 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         
-        idx_1 = 0
-        idx_2 = 0
-
         merge = ''
 
-        while idx_1 < len(word1) and idx_2 < len(word2):
-            
-            merge += word1[idx_1]
-            merge += word2[idx_2]
+        for w1, w2 in zip(word1, word2):
+            merge += w1
+            merge += w2
         
-            idx_1 += 1
-            idx_2 += 1
+        n = min(len(word1), len(word2))
 
-        
-        if idx_1 == len(word1):
-            merge += word2[idx_2:]
-        
-        if idx_2 == len(word2):
-            merge += word1[idx_1:]
-        
+        merge += word1[n:]
+        merge += word2[n:]
+
         return merge
