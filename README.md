@@ -94,6 +94,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jungyu333/algorithm/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/jungyu333/algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jungyu333/algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jungyu333/algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jungyu333/algorithm/tree/master/0205-isomorphic-strings) |
@@ -179,4 +180,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/jungyu333/algorithm/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jungyu333/algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
