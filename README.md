@@ -129,6 +129,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jungyu333/algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -171,6 +172,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jungyu333/algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/jungyu333/algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -184,4 +186,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jungyu333/algorithm/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/jungyu333/algorithm/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
