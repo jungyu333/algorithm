@@ -31,6 +31,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1148-article-views-i](https://github.com/jungyu333/algorithm/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/jungyu333/algorithm/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/jungyu333/algorithm/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/jungyu333/algorithm/tree/master/1251-average-selling-price) |
 ## Array
 |  |
 | ------- |
