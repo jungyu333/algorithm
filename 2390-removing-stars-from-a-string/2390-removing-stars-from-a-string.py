@@ -4,16 +4,9 @@ class Solution:
         stack = []
 
         for char in s:
-
-            if not stack:
-                stack.append(char)
-            
+            if char == '*':
+                stack.pop()
             else:
-
-                top = stack[-1]
-                if char == '*':
-                    stack.pop()
-                else:
-                    stack.append(char)
+                stack.append(char)
         
         return ''.join(stack)
