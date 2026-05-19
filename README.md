@@ -112,6 +112,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jungyu333/algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/jungyu333/algorithm/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jungyu333/algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/jungyu333/algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jungyu333/algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/jungyu333/algorithm/tree/master/1920-build-array-from-permutation) |
+| [2390-removing-stars-from-a-string](https://github.com/jungyu333/algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -195,4 +197,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0225-implement-stack-using-queues](https://github.com/jungyu333/algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jungyu333/algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jungyu333/algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/jungyu333/algorithm/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
