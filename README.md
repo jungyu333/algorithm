@@ -47,6 +47,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/jungyu333/algorithm/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -155,6 +156,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/jungyu333/algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jungyu333/algorithm/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jungyu333/algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/jungyu333/algorithm/tree/master/1920-build-array-from-permutation) |
@@ -202,6 +204,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0155-min-stack](https://github.com/jungyu333/algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jungyu333/algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jungyu333/algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/jungyu333/algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jungyu333/algorithm/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jungyu333/algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jungyu333/algorithm/tree/master/2390-removing-stars-from-a-string) |
