@@ -71,6 +71,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/jungyu333/algorithm/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jungyu333/algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/jungyu333/algorithm/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/jungyu333/algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/jungyu333/algorithm/tree/master/1768-merge-strings-alternately) |
@@ -110,6 +111,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0392-is-subsequence](https://github.com/jungyu333/algorithm/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jungyu333/algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/jungyu333/algorithm/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/jungyu333/algorithm/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jungyu333/algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/jungyu333/algorithm/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jungyu333/algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -153,6 +155,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/jungyu333/algorithm/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jungyu333/algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/jungyu333/algorithm/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/jungyu333/algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -199,6 +202,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0155-min-stack](https://github.com/jungyu333/algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jungyu333/algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jungyu333/algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/jungyu333/algorithm/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jungyu333/algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jungyu333/algorithm/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
