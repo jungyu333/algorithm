@@ -134,10 +134,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Design
 |  |
@@ -218,9 +220,11 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
