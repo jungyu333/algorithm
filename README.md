@@ -246,6 +246,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0572-subtree-of-another-tree](https://github.com/jungyu333/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jungyu333/algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jungyu333/algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0226-invert-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jungyu333/algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/jungyu333/algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -264,4 +266,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jungyu333/algorithm/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/jungyu333/algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/jungyu333/algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
