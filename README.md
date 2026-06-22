@@ -45,6 +45,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0014-longest-common-prefix](https://github.com/jungyu333/algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jungyu333/algorithm/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/jungyu333/algorithm/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/jungyu333/algorithm/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jungyu333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/jungyu333/algorithm/tree/master/0228-summary-ranges) |
@@ -129,6 +130,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jungyu333/algorithm/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jungyu333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
