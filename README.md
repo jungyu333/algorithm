@@ -38,6 +38,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1407-top-travellers](https://github.com/jungyu333/algorithm/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/jungyu333/algorithm/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/jungyu333/algorithm/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/jungyu333/algorithm/tree/master/1527-patients-with-a-condition) |
 ## Array
 |  |
 | ------- |
