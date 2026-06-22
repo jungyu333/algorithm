@@ -53,6 +53,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/jungyu333/algorithm/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
@@ -131,6 +132,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jungyu333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
