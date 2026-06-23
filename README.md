@@ -134,6 +134,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0035-search-insert-position](https://github.com/jungyu333/algorithm/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jungyu333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/jungyu333/algorithm/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -280,4 +281,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/jungyu333/algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jungyu333/algorithm/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
