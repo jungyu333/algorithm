@@ -136,6 +136,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/jungyu333/algorithm/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/jungyu333/algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -285,4 +286,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jungyu333/algorithm/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/jungyu333/algorithm/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
