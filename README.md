@@ -105,6 +105,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/jungyu333/algorithm/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/jungyu333/algorithm/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -137,6 +138,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/jungyu333/algorithm/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/jungyu333/algorithm/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/jungyu333/algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 ## Bit Manipulation
