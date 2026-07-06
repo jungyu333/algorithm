@@ -62,6 +62,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jungyu333/algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jungyu333/algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jungyu333/algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jungyu333/algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -146,6 +147,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0374-guess-number-higher-or-lower](https://github.com/jungyu333/algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jungyu333/algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jungyu333/algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jungyu333/algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/jungyu333/algorithm/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
