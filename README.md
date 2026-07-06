@@ -59,6 +59,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0682-baseball-game](https://github.com/jungyu333/algorithm/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jungyu333/algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -144,6 +145,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0367-valid-perfect-square](https://github.com/jungyu333/algorithm/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/jungyu333/algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jungyu333/algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
