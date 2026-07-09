@@ -63,6 +63,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jungyu333/algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jungyu333/algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jungyu333/algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -314,6 +315,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jungyu333/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
