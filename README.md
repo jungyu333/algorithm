@@ -57,6 +57,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0283-move-zeroes](https://github.com/jungyu333/algorithm/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/jungyu333/algorithm/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/jungyu333/algorithm/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
@@ -226,6 +227,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0049-group-anagrams](https://github.com/jungyu333/algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jungyu333/algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/jungyu333/algorithm/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
