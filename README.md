@@ -68,6 +68,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jungyu333/algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/jungyu333/algorithm/tree/master/1389-create-target-array-in-the-given-order) |
@@ -155,6 +156,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0704-binary-search](https://github.com/jungyu333/algorithm/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jungyu333/algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jungyu333/algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jungyu333/algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/jungyu333/algorithm/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
@@ -205,6 +207,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/jungyu333/algorithm/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jungyu333/algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/jungyu333/algorithm/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -231,6 +234,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0414-third-maximum-number](https://github.com/jungyu333/algorithm/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/jungyu333/algorithm/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -322,6 +326,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0506-relative-ranks](https://github.com/jungyu333/algorithm/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jungyu333/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Data Stream
 |  |
 | ------- |
