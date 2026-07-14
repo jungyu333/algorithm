@@ -53,6 +53,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0035-search-insert-position](https://github.com/jungyu333/algorithm/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/jungyu333/algorithm/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jungyu333/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/jungyu333/algorithm/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/jungyu333/algorithm/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/jungyu333/algorithm/tree/master/0303-range-sum-query-immutable) |
@@ -229,6 +230,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jungyu333/algorithm/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jungyu333/algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jungyu333/algorithm/tree/master/0414-third-maximum-number) |
@@ -323,6 +325,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/jungyu333/algorithm/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jungyu333/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
@@ -331,4 +334,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jungyu333/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
