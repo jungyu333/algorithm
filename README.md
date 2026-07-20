@@ -67,6 +67,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0733-flood-fill](https://github.com/jungyu333/algorithm/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jungyu333/algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jungyu333/algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
 | [1313-decompress-run-length-encoded-list](https://github.com/jungyu333/algorithm/tree/master/1313-decompress-run-length-encoded-list) |
@@ -120,6 +121,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0069-sqrtx](https://github.com/jungyu333/algorithm/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/jungyu333/algorithm/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/jungyu333/algorithm/tree/master/0367-valid-perfect-square) |
+| [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/jungyu333/algorithm/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -236,6 +238,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0349-intersection-of-two-arrays](https://github.com/jungyu333/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/jungyu333/algorithm/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/jungyu333/algorithm/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/jungyu333/algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jungyu333/algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -329,6 +332,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/jungyu333/algorithm/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jungyu333/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Data Stream
@@ -339,8 +343,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jungyu333/algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
