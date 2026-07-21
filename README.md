@@ -86,6 +86,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1672-richest-customer-wealth](https://github.com/jungyu333/algorithm/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/jungyu333/algorithm/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jungyu333/algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/jungyu333/algorithm/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1389-create-target-array-in-the-given-order](https://github.com/jungyu333/algorithm/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/jungyu333/algorithm/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/jungyu333/algorithm/tree/master/2390-removing-stars-from-a-string) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/jungyu333/algorithm/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Counting
 |  |
 | ------- |
@@ -348,6 +350,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jungyu333/algorithm/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jungyu333/algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/jungyu333/algorithm/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
 | ------- |
