@@ -139,6 +139,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0125-valid-palindrome](https://github.com/jungyu333/algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jungyu333/algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jungyu333/algorithm/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/jungyu333/algorithm/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/jungyu333/algorithm/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/jungyu333/algorithm/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/jungyu333/algorithm/tree/master/0383-ransom-note) |
@@ -185,6 +186,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0112-path-sum](https://github.com/jungyu333/algorithm/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jungyu333/algorithm/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jungyu333/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jungyu333/algorithm/tree/master/0617-merge-two-binary-trees) |
@@ -198,6 +200,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0112-path-sum](https://github.com/jungyu333/algorithm/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jungyu333/algorithm/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jungyu333/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jungyu333/algorithm/tree/master/0617-merge-two-binary-trees) |
@@ -300,6 +303,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0111-minimum-depth-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jungyu333/algorithm/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jungyu333/algorithm/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/jungyu333/algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jungyu333/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jungyu333/algorithm/tree/master/0617-merge-two-binary-trees) |
@@ -381,5 +385,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/jungyu333/algorithm/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/jungyu333/algorithm/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
