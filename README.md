@@ -84,6 +84,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1512-number-of-good-pairs](https://github.com/jungyu333/algorithm/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/jungyu333/algorithm/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/jungyu333/algorithm/tree/master/1672-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/jungyu333/algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/jungyu333/algorithm/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jungyu333/algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/jungyu333/algorithm/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -129,6 +130,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0367-valid-perfect-square](https://github.com/jungyu333/algorithm/tree/master/0367-valid-perfect-square) |
 | [0973-k-closest-points-to-origin](https://github.com/jungyu333/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/jungyu333/algorithm/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/jungyu333/algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/jungyu333/algorithm/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/jungyu333/algorithm/tree/master/0784-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/jungyu333/algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -389,4 +392,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0257-binary-tree-paths](https://github.com/jungyu333/algorithm/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/jungyu333/algorithm/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/jungyu333/algorithm/tree/master/0784-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/jungyu333/algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/jungyu333/algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/jungyu333/algorithm/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
