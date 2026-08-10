@@ -176,6 +176,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jungyu333/algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/jungyu333/algorithm/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/jungyu333/algorithm/tree/master/0784-letter-case-permutation) |
 ## Tree
 |  |
@@ -386,5 +387,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/jungyu333/algorithm/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/jungyu333/algorithm/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/jungyu333/algorithm/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
